@@ -1,0 +1,42 @@
+[
+  {
+    "device_os": "ios",
+    "login": "ios_user_1",
+    "name": "iOS User 1",
+    "status": "active",
+    "level": 2,
+    "coins": 5000
+  },
+  {
+    "device_os": "ios",
+    "login": "ios_user_2",
+    "name": "iOS User 2",
+    "status": "active",
+    "level": 4,
+    "coins": 12500
+  },
+  {
+    "device_os": "android",
+    "login": "android_user_1",
+    "name": "android User 1",
+    "status": "active",
+    "level": 8,
+    "coins": -10000
+  },
+  {
+    "device_os": "android",
+    "login": "android_user_2",
+    "name": "android User 2",
+    "status": "active",
+    "level": 16,
+    "coins": 50000
+  },
+  {
+    "device_os": "ios",
+    "login": "ios_user_3",
+    "name": "iOS User 3",
+    "status": "banned",
+    "level": 512,
+    "coins": 999999999999
+  }
+]

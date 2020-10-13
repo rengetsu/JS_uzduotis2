@@ -1,0 +1,26 @@
+[
+  {
+    "device_os": "ios",
+    "login": "ios_user_101",
+    "name": "iOS User 101",
+    "status": "active",
+    "level": 2,
+    "coins": 5000
+  },
+  {
+    "device_os": "android",
+    "login": "android_user_101",
+    "name": "android User 101",
+    "status": "active",
+    "level": 8,
+    "coins": 25000
+  },
+  {
+    "device_os": "android",
+    "login": "android_user_102",
+    "name": "android User 102",
+    "status": "banned",
+    "level": 16,
+    "coins": 50000
+  }
+]
